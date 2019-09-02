@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58706799994",
+    "firebase_url": "https://majer-cf779.firebaseio.com",
+    "project_id": "majer-cf779",
+    "storage_bucket": "majer-cf779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58706799994:android:bb0f9cfd1b35fa22",
+        "android_client_info": {
+          "package_name": "com.example.project_srca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58706799994-9988h1c8e1jfce46vu51vmqbq5aalsop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5_7STk-9bdDSQ4NhWfLSxuXWTthkG5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58706799994-9988h1c8e1jfce46vu51vmqbq5aalsop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
